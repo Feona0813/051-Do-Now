@@ -1,0 +1,9 @@
+.circle{
+    border: 3px tan dotted;
+}
+.square{
+    font-size: 50px;
+}
+.rectangle{
+    border: lightblue 5px groove;
+}
